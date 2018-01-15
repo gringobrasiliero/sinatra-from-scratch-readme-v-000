@@ -1,0 +1,9 @@
+To check if application is running, run:
+
+    RACKUP APP.RB
+
+    Go to localhost:9292. Since you are running Learn.atom, go to the IP address listed.
+
+    Install Gem Shotgun to have server constantly refreshing so you do not have to quit and restart server constantly!
+
+    GEM SHOTGUN
